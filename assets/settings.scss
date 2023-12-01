@@ -1,0 +1,12 @@
+$family: "Montserrat Alternates", sans-serif;
+$colorDefault: "#2e6fb6";
+@use 'vuetify/settings' with (
+  $body-font-family : $family,
+
+);
+
+/*
+
+
+$field-border-radius:20px,
+*/
